@@ -1,5 +1,5 @@
 # Devops-aula4
 Vingadores(ultimato)<br/>
-Thor Ragnarok
-Vingadores Guerra infinta 
+Thor Ragnarok <br/>
+Vingadores Guerra infinta <br/> 
 1901011
